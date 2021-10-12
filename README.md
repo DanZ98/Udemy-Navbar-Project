@@ -1,4 +1,4 @@
-# Changing Background Color Project
+# Navbar Project
 
 A Udemy project showcasing responsive navbar in JavaScript. This is a more JavaScript type of project within the JavaScript section of the course. 
 
